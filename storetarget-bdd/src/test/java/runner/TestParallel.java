@@ -14,7 +14,7 @@ import java.util.List;
 import static junit.framework.TestCase.assertTrue;
 
 
-@KarateOptions(tags = {"~@ignore"})
+@KarateOptions(tags = {"~@ignore", "@SmokeTest"})
 public class TestParallel {
 
     @Test
