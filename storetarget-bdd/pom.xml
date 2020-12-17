@@ -11,13 +11,6 @@
 
     <artifactId>storetarget-bdd</artifactId>
 
-    <dependency>
-        <groupId>net.masterthought</groupId>
-        <artifactId>cucumber-reporting</artifactId>
-        <version>3.8.0</version>
-        <scope>test</scope>
-    </dependency>
-
     <build>
         <plugins>
             <plugin>
